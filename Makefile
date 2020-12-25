@@ -1,4 +1,4 @@
-create-app: 
+react-app: 
 	mkdir $(name)
 	cd $(name) && git clone https://github.com/saravvij/react-basic-starter.git . && rm -rf .git && rm .gitignore
 	cd $(name) && code . && yarn && yarn start
