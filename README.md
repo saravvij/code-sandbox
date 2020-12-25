@@ -10,7 +10,7 @@ make react-app name=my-app-name
 make run name=my-app-name
 ```
 
-## Push changes in Github
+## Push changes to Github
 ```
 make push
 ```
