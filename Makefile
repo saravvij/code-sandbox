@@ -8,5 +8,8 @@ run:
 
 push:
 	git add .
-	git commit -m "Modified programs"
+	git commit -m "Updated files"
 	git push origin master
+
+make help:
+	cat README.md
