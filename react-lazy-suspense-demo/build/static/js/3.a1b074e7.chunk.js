@@ -1,0 +1,2 @@
+(this["webpackJsonpsimple-react-starter"]=this["webpackJsonpsimple-react-starter"]||[]).push([[3],{31:function(t,e,r){"use strict";r.r(e),r.d(e,"default",(function(){return n}));var s=r(1);r(0);function n(){return Object(s.jsx)("h1",{children:"About Page"})}}}]);
+//# sourceMappingURL=3.a1b074e7.chunk.js.map
