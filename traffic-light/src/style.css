@@ -1,0 +1,32 @@
+.app {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.lights {
+    display: flex;
+}
+
+.lights > div {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 100px;
+    margin: 30px;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
